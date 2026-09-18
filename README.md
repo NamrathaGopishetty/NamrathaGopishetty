@@ -14,7 +14,7 @@
 > USER PROFILE LOADED
 ```
 
-I'm **Namratha**, a B.Tech IT student interested in software engineering, AI/ML and building practical systems for real-world problems.
+I'm **Namratha**, a B.Tech IT student and aspiring software engineer interested in building practical systems for real-world problems.
 
 ### Current Interests
 
@@ -60,56 +60,24 @@ I'm **Namratha**, a B.Tech IT student interested in software engineering, AI/ML 
 Each project is a puzzle solved through code.
 
 <p align="center">
-  <img src="assets/puzzles/puzzle-card.svg" alt="Puzzle Card" width="600"/>
+  <img src="assets/puzzles/puzzle-01.svg" alt="Puzzle 01" width="600"/>
 </p>
 
-### PUZZLE_01 — Legacy Code Explorer
+<p align="center">
+  <img src="assets/puzzles/puzzle-02.svg" alt="Puzzle 02" width="600"/>
+</p>
 
-| Field | Details |
-|-------|---------|
-| **Objective** | End-to-end platform for exploring Python GitHub repos with RAG-powered Q&A |
-| **Stack** | FastAPI · React · Cohere RAG · Python |
-| **Status** | ████████████████████ SOLVED |
+<p align="center">
+  <img src="assets/puzzles/puzzle-03.svg" alt="Puzzle 03" width="600"/>
+</p>
 
----
+<p align="center">
+  <img src="assets/puzzles/puzzle-04.svg" alt="Puzzle 04" width="600"/>
+</p>
 
-### PUZZLE_02 — AI Standards Intelligence
-
-| Field | Details |
-|-------|---------|
-| **Objective** | Tender validation system mapping requirements to verified Indian Standards |
-| **Stack** | FastAPI · React · PostgreSQL · Cohere · OCR |
-| **Status** | ████████████████████ SOLVED |
-
----
-
-### PUZZLE_03 — Civic Issue Platform
-
-| Field | Details |
-|-------|---------|
-| **Objective** | Platform connecting citizens with authorities |
-| **Stack** | JavaScript · HTML · Kotlin |
-| **Status** | ████████████████████ SOLVED |
-
----
-
-### PUZZLE_04 — Farmer Assistant AI
-
-| Field | Details |
-|-------|---------|
-| **Objective** | AI-powered assistant for farmers using RAG and voice interface |
-| **Stack** | Python · FAISS · Sentence Transformers · Streamlit |
-| **Status** | ████████████████████ SOLVED |
-
----
-
-### PUZZLE_05 — Kerala Trip Planner
-
-| Field | Details |
-|-------|---------|
-| **Objective** | Mobile app for trip planning with weather reports and budget calculations |
-| **Stack** | JavaScript · React Native |
-| **Status** | ████████████████████ SOLVED |
+<p align="center">
+  <img src="assets/puzzles/puzzle-05.svg" alt="Puzzle 05" width="600"/>
+</p>
 
 <p align="center">
   <img src="assets/ui/divider.svg" width="400"/>
@@ -117,59 +85,7 @@ Each project is a puzzle solved through code.
 
 ---
 
-## 04 // EXPERIMENT LAB
-
-```
-> RESEARCH DATABASE ACCESSED
-```
-
-<p align="center">
-  <img src="assets/experiments/experiment-ui.svg" alt="Experiment Lab" width="700"/>
-</p>
-
-| ID | Experiment | Technology | Status |
-|----|------------|------------|--------|
-| EX-001 | Hand Gesture Recognition | SVM | ✓ |
-| EX-002 | Cats vs Dogs Classification | SVM | ✓ |
-| EX-003 | House Price Prediction | ML | ✓ |
-| EX-004 | K-Means Clustering | ML | ✓ |
-
-<p align="center">
-  <img src="assets/ui/divider.svg" width="400"/>
-</p>
-
----
-
-## 05 // CURRENT TRIAL
-
-```
-> ACTIVE LEARNING SESSION
-```
-
-<p align="center">
-  <img src="assets/puzzles/current-trial.svg" alt="Current Trial" width="600"/>
-</p>
-
-### TRIAL_007 — Master Spring Boot
-
-| Skill | Progress |
-|-------|----------|
-| REST APIs | ████████████████████ 100% |
-| JPA / Hibernate | ███████████████░░░░░ 75% |
-| Security | ████████░░░░░░░░░░░░ 40% |
-| System Design | ██████░░░░░░░░░░░░░░ 30% |
-
-```
-STATUS: IN_PROGRESS
-```
-
-<p align="center">
-  <img src="assets/ui/divider.svg" width="400"/>
-</p>
-
----
-
-## 06 // SIMULATION RECORD
+## 04 // SIMULATION RECORD
 
 ```
 > ACHIEVEMENT DATABASE ACCESSED
@@ -191,10 +107,33 @@ STATUS: IN_PROGRESS
   <img src="assets/ui/divider.svg" width="400"/>
 </p>
 
+---
+
+## 05 // SYSTEM TELEMETRY
+
+```
+> GITHUB ACTIVITY ANALYSIS
+```
+
+<p align="center">
+  <img src="assets/ui/telemetry.svg" alt="Telemetry" width="700"/>
+</p>
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamrathaGopishetty&show_icons=true&theme=chartreuse-dark&bg_color=0E1111&title_color=C5A46D&text_color=E6E1D5&icon_color=6F918A&border_color=303534)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamrathaGopishetty&layout=compact&theme=chartreuse-dark&bg_color=0E1111&title_color=C5A46D&text_color=E6E1D5&border_color=303534)
+
+</div>
+
+<p align="center">
+  <img src="assets/ui/divider.svg" width="400"/>
+</p>
 
 ---
 
-## 07 // ESTABLISH CONNECTION
+## 06 // ESTABLISH CONNECTION
 
 ```
 > CONNECTION CHANNELS AVAILABLE
@@ -202,8 +141,8 @@ STATUS: IN_PROGRESS
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namratha-gopishetty)
-[![Email](https://img.shields.io/badge/Email-C5A46D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopishettynamratha0408@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
+[![Email](https://img.shields.io/badge/Email-C5A46D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![GitHub](https://img.shields.io/badge/GitHub-8C918D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NamrathaGopishetty)
 
 </div>

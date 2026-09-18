@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 180" width="600" height="180">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&amp;display=swap');
+      text { font-family: 'IBM Plex Mono', monospace; }
+      .bg { fill: #0E1111; }
+      .primary-text { fill: #E6E1D5; }
+      .secondary-text { fill: #8C918D; }
+      .bronze { fill: #C5A46D; }
+      .teal { fill: #6F918A; }
+      .success { fill: #91A88F; }
+      .border { fill: none; stroke: #303534; stroke-width: 1; }
+      @keyframes fillBar { from { width: 0; } to { width: 100%; } }
+      @keyframes scan { 0% { transform: translateY(0); opacity: 0; } 50% { opacity: 0.5; } 100% { transform: translateY(140px); opacity: 0; } }
+      .fill { animation: fillBar 2s ease-out forwards; }
+      .scan { animation: scan 4s linear infinite; }
+    </style>
+  </defs>
+  <rect width="600" height="180" class="bg"/>
+  <rect x="10" y="10" width="580" height="160" class="border" rx="2"/>
+  <path d="M10 25 L10 10 L25 10" fill="none" stroke="#C5A46D" stroke-width="1.5"/>
+  <path d="M575 10 L590 10 L590 25" fill="none" stroke="#C5A46D" stroke-width="1.5"/>
+  <text x="30" y="35" class="teal" font-size="10" letter-spacing="2">PUZZLE_03</text>
+  <text x="30" y="60" class="primary-text" font-size="14" font-weight="700" letter-spacing="1">CIVIC ISSUE PLATFORM</text>
+  <text x="30" y="82" class="secondary-text" font-size="9" letter-spacing="1">OBJECTIVE</text>
+  <text x="30" y="96" class="primary-text" font-size="10">Platform connecting citizens with authorities for civic issue resolution</text>
+  <text x="30" y="118" class="secondary-text" font-size="9" letter-spacing="1">STACK</text>
+  <text x="30" y="132" class="bronze" font-size="10">JavaScript · HTML · Kotlin</text>
+  <text x="30" y="152" class="secondary-text" font-size="9" letter-spacing="1">STATUS</text>
+  <rect x="90" y="144" width="160" height="6" fill="#303534" rx="2"/>
+  <rect x="90" y="144" width="160" height="6" fill="#91A88F" rx="2" class="fill"/>
+  <text x="260" y="152" class="success" font-size="9" letter-spacing="1">SOLVED</text>
+  <rect x="30" y="20" width="540" height="2" fill="#6F918A" opacity="0.2" class="scan"/>
+</svg>
