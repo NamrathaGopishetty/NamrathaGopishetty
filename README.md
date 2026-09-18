@@ -99,7 +99,7 @@ Each project is a puzzle solved through code.
 ✓ Member of IEC (Innovation and Entrepreneurship Club)
 ✓ Member of Hackerabad (Technical Club)
 ✓ Media and Designing Head — Cisco Club (SNIST)
-✓ Organizing Executive — 3Cloud Community Club
+✓ Organizing Executive — Cloud Community Club
 ✓ Technical Executive — GDC (Game Development Club)
 ```
 
@@ -107,33 +107,10 @@ Each project is a puzzle solved through code.
   <img src="assets/ui/divider.svg" width="400"/>
 </p>
 
----
-
-## 05 // SYSTEM TELEMETRY
-
-```
-> GITHUB ACTIVITY ANALYSIS
-```
-
-<p align="center">
-  <img src="assets/ui/telemetry.svg" alt="Telemetry" width="700"/>
-</p>
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NamrathaGopishetty&show_icons=true&theme=chartreuse-dark&bg_color=0E1111&title_color=C5A46D&text_color=E6E1D5&icon_color=6F918A&border_color=303534)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NamrathaGopishetty&layout=compact&theme=chartreuse-dark&bg_color=0E1111&title_color=C5A46D&text_color=E6E1D5&border_color=303534)
-
-</div>
-
-<p align="center">
-  <img src="assets/ui/divider.svg" width="400"/>
-</p>
 
 ---
 
-## 06 // ESTABLISH CONNECTION
+## 05 // ESTABLISH CONNECTION
 
 ```
 > CONNECTION CHANNELS AVAILABLE
