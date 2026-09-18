@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20" width="20" height="20">
+  <defs>
+    <style>
+      @keyframes blink {
+        0%, 50% { opacity: 1; }
+        51%, 100% { opacity: 0; }
+      }
+      .blink { animation: blink 1s step-end infinite; }
+    </style>
+  </defs>
+  
+  <rect x="2" y="2" width="3" height="16" fill="#C5A46D" class="blink"/>
+</svg>

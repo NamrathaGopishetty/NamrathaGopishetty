@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 60" width="800" height="60">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&amp;display=swap');
+      text { font-family: 'IBM Plex Mono', monospace; }
+      .secondary-text { fill: #8C918D; }
+      .bronze { fill: #C5A46D; }
+      
+      @keyframes pulse {
+        0%, 100% { opacity: 0.3; }
+        50% { opacity: 1; }
+      }
+      .pulse { animation: pulse 3s ease-in-out infinite; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="800" height="60" fill="#0E1111"/>
+  
+  <!-- Left line -->
+  <line x1="40" y1="30" x2="350" y2="30" stroke="#303534" stroke-width="1"/>
+  
+  <!-- Center diamond -->
+  <polygon points="400,20 410,30 400,40 390,30" fill="none" stroke="#C5A46D" stroke-width="1"/>
+  <circle cx="400" cy="30" r="2" fill="#C5A46D" class="pulse"/>
+  
+  <!-- Right line -->
+  <line x1="450" y1="30" x2="760" y2="30" stroke="#303534" stroke-width="1"/>
+  
+  <!-- Decorative dots -->
+  <circle cx="360" cy="30" r="1.5" fill="#303534"/>
+  <circle cx="440" cy="30" r="1.5" fill="#303534"/>
+</svg>

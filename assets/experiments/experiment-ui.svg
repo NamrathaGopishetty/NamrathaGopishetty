@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 280" width="700" height="280">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;700&amp;display=swap');
+      text { font-family: 'IBM Plex Mono', monospace; }
+      .bg { fill: #0E1111; }
+      .primary-text { fill: #E6E1D5; }
+      .secondary-text { fill: #8C918D; }
+      .bronze { fill: #C5A46D; }
+      .teal { fill: #6F918A; }
+      .success { fill: #91A88F; }
+      .border { fill: none; stroke: #303534; stroke-width: 1; }
+      
+      @keyframes scan {
+        0% { transform: translateY(0); opacity: 0; }
+        50% { opacity: 0.5; }
+        100% { transform: translateY(200px); opacity: 0; }
+      }
+      @keyframes pulse {
+        0%, 100% { opacity: 0.5; }
+        50% { opacity: 1; }
+      }
+      .scan { animation: scan 4s linear infinite; }
+      .pulse { animation: pulse 2s ease-in-out infinite; }
+    </style>
+  </defs>
+  
+  <!-- Background -->
+  <rect width="700" height="280" class="bg"/>
+  
+  <!-- Title -->
+  <text x="350" y="30" text-anchor="middle" class="secondary-text" font-size="11" letter-spacing="3">04 // EXPERIMENT LAB</text>
+  
+  <!-- Header row -->
+  <text x="50" y="60" class="secondary-text" font-size="9" letter-spacing="1">ID</text>
+  <text x="120" y="60" class="secondary-text" font-size="9" letter-spacing="1">EXPERIMENT</text>
+  <text x="420" y="60" class="secondary-text" font-size="9" letter-spacing="1">TECHNOLOGY</text>
+  <text x="580" y="60" class="secondary-text" font-size="9" letter-spacing="1">STATUS</text>
+  
+  <line x1="40" y1="70" x2="660" y2="70" stroke="#303534" stroke-width="1"/>
+  
+  <!-- Row 1 -->
+  <text x="50" y="95" class="teal" font-size="10">EX-001</text>
+  <text x="120" y="95" class="primary-text" font-size="10">Hand Gesture Recognition</text>
+  <text x="420" y="95" class="bronze" font-size="10">SVM</text>
+  <text x="580" y="95" class="success" font-size="10">✓</text>
+  
+  <line x1="40" y1="105" x2="660" y2="105" stroke="#303534" stroke-width="0.5"/>
+  
+  <!-- Row 2 -->
+  <text x="50" y="130" class="teal" font-size="10">EX-002</text>
+  <text x="120" y="130" class="primary-text" font-size="10">Cats vs Dogs Classification</text>
+  <text x="420" y="130" class="bronze" font-size="10">SVM</text>
+  <text x="580" y="130" class="success" font-size="10">✓</text>
+  
+  <line x1="40" y1="140" x2="660" y2="140" stroke="#303534" stroke-width="0.5"/>
+  
+  <!-- Row 3 -->
+  <text x="50" y="165" class="teal" font-size="10">EX-003</text>
+  <text x="120" y="165" class="primary-text" font-size="10">House Price Prediction</text>
+  <text x="420" y="165" class="bronze" font-size="10">ML</text>
+  <text x="580" y="165" class="success" font-size="10">✓</text>
+  
+  <line x1="40" y1="175" x2="660" y2="175" stroke="#303534" stroke-width="0.5"/>
+  
+  <!-- Row 4 -->
+  <text x="50" y="200" class="teal" font-size="10">EX-004</text>
+  <text x="120" y="200" class="primary-text" font-size="10">K-Means Clustering</text>
+  <text x="420" y="200" class="bronze" font-size="10">ML</text>
+  <text x="580" y="200" class="success" font-size="10">✓</text>
+  
+  <line x1="40" y1="210" x2="660" y2="210" stroke="#303534" stroke-width="1"/>
+  
+  <!-- Scanning effect -->
+  <rect x="40" y="70" width="620" height="3" fill="#6F918A" opacity="0.3" class="scan"/>
+  
+  <!-- Bottom status -->
+  <text x="40" y="250" class="secondary-text" font-size="9" letter-spacing="1">EXPERIMENTS: 4</text>
+  <text x="620" y="250" class="secondary-text" font-size="9" letter-spacing="1">ALL COMPLETE</text>
+  
+  <!-- Decorative elements -->
+  <circle cx="30" cy="30" r="3" fill="#303534"/>
+  <circle cx="670" cy="30" r="3" fill="#303534"/>
+  <circle cx="30" cy="250" r="3" fill="#303534"/>
+  <circle cx="670" cy="250" r="3" fill="#303534"/>
+</svg>
