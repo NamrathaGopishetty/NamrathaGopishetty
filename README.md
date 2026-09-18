@@ -225,8 +225,8 @@ STATUS: IN_PROGRESS
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_URL)
-[![Email](https://img.shields.io/badge/Email-C5A46D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/namratha-gopishetty)
+[![Email](https://img.shields.io/badge/Email-C5A46D?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gopishettynamratha0408@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-8C918D?style=for-the-badge&logo=github&logoColor=white)](https://github.com/NamrathaGopishetty)
 
 </div>
